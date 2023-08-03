@@ -1,2 +1,2 @@
-4-empty
+#!/bin/bash
 vi hello <return>, :q! <return>
